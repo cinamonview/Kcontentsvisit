@@ -9,7 +9,8 @@
 - [x] PRD v0.3 작성
 - [x] 백엔드 버전 확정 (Spring Boot 4.1.1 + Java 25)
 - [x] 1차 중심 아티스트 확정 (BTS)
-- [ ] 기술 스택 추천안 확정 (Expo, MySQL/Docker, Flyway 등)
+- [x] 모바일 프레임워크 확정 (Expo)
+- [ ] 나머지 기술 스택 추천안 확정 (MySQL/Docker, Flyway 등)
 - [x] 1차 콘텐츠 확정 (BTS + 이태원 클라쓰 + 케이팝 데몬 헌터스 + TWICE)
 - [ ] 스토어 출시 vs 포트폴리오 결정
 - [ ] 앱 이름 확정

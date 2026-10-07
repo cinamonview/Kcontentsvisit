@@ -10,6 +10,7 @@
 |---|---|---|---|
 | 2026-10-07 | 플랫폼 | iOS + Android 크로스 플랫폼 | PRD 9번 비기능 요구사항 |
 | 2026-10-07 | 백엔드 버전 | **Spring Boot 4.1.1 + Java 25** | JWED와 버전을 맞춰 설정·의존성·Docker 구성을 그대로 재사용. PRD 10번의 "Spring Boot 3 + Java 21"을 대체 |
+| 2026-10-07 | 모바일 프레임워크 | **React Native Expo** + TypeScript + Expo Router | 사용자는 이전 프로젝트에서 Flutter를 써 봤지만 이번엔 Expo로 해 보기로 함. PRD 10번 초안과 같은 선택 |
 | 2026-10-07 | 1차 중심 아티스트 | **BTS** | PRD 팀 질문 1번 |
 | 2026-10-07 | 1차 콘텐츠 구성 | **BTS 16곳 + 이태원 클라쓰 4곳 + 케이팝 데몬 헌터스 7곳 + TWICE 3곳 (후보 30곳)** | 이태원 클라쓰는 Claude 추천(사용자가 같이 넣을 작품 선택을 맡김), 케데헌·TWICE는 사용자 선택. 목록은 [spot-candidates.md](spot-candidates.md) |
 | 2026-10-07 | 범위 | 서울 + 근교, **공개 장소만** | PRD 범위·8번 운영 원칙(사생활) |
@@ -27,7 +28,6 @@
 
 | 항목 | 추천 | 대안 |
 |---|---|---|
-| 모바일 프레임워크 | React Native **Expo** + TypeScript + Expo Router (PRD 초안 선택과 같음) | Flutter (Dart가 더 익숙하다면) |
 | 지도 | react-native-maps, 길찾기는 구글/네이버 지도 앱 열기 | 네이버 지도 SDK |
 | DB | 로컬·운영 모두 MySQL (로컬은 Docker), **H2 사용 안 함** | PRD 초안: 개발 H2 / 운영 MySQL |
 | 성지 데이터 관리 | Flyway 시드 SQL을 Git으로 관리, 관리자 화면 없음 | 관리자 페이지 |
