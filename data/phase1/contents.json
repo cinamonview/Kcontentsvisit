@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name_en": "BTS",
+    "name_ko": "방탄소년단",
+    "type": "KPOP",
+    "description": "Seven-member K-pop group. Spots include music video, performance and variety-show locations in Seoul."
+  },
+  {
+    "id": 2,
+    "name_en": "Itaewon Class",
+    "name_ko": "이태원 클라쓰",
+    "type": "DRAMA",
+    "description": "2020 JTBC drama set around Itaewon. V of BTS sang the OST 'Sweet Night'."
+  },
+  {
+    "id": 3,
+    "name_en": "KPop Demon Hunters",
+    "name_ko": "케이팝 데몬 헌터스",
+    "type": "MOVIE",
+    "description": "2025 Netflix animated film. Spots are real places that appear as backgrounds, not filming locations."
+  },
+  {
+    "id": 4,
+    "name_en": "TWICE",
+    "name_ko": "트와이스",
+    "type": "KPOP",
+    "description": "Nine-member K-pop group. Spots are music video locations in Seoul and nearby."
+  }
+]
