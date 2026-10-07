@@ -1,0 +1,48 @@
+{
+  "tabs": { "explore": "Explore", "map": "Map", "trail": "My Trail" },
+  "explore": {
+    "title": "Find your favorite's spots",
+    "search": "Search artists and shows",
+    "all": "All",
+    "spotCount_one": "{{count}} spot",
+    "spotCount_other": "{{count}} spots",
+    "empty": "Nothing matches your search."
+  },
+  "types": { "KPOP": "K-pop", "DRAMA": "Drama", "MOVIE": "Movie", "VARIETY": "Variety" },
+  "content": { "spots": "Spots" },
+  "spot": {
+    "related": "Why it's a spot",
+    "source": "Source",
+    "photoTip": "Photo tip",
+    "manners": "Visiting manners",
+    "safety": "Safety",
+    "access": "Getting there",
+    "hours": "Hours",
+    "admission": "Admission",
+    "timetable": "Official timetable",
+    "checkBeforeVisit": "Times and conditions change. Check before you visit.",
+    "googleMaps": "Google Maps",
+    "naverMap": "Naver Map",
+    "save": "Save",
+    "saved": "Saved",
+    "markVisited": "I'm here",
+    "visited": "Visited",
+    "coordUnverified": "The map pin is approximate and not yet checked.",
+    "notFound": "This spot doesn't exist."
+  },
+  "access": { "EASY": "Easy", "MEDIUM": "Moderate", "HARD": "Hard" },
+  "spotType": { "URBAN": "City", "EXCURSION": "Day trip" },
+  "map": {
+    "allContents": "All",
+    "webFallback": "The map works in the iOS and Android app. Here is the list instead."
+  },
+  "trail": {
+    "progress": "{{visited}} / {{total}} visited",
+    "saved": "Saved",
+    "visited": "Visited",
+    "emptySaved": "Save spots you want to visit and they'll show up here.",
+    "emptyVisited": "Tap \"I'm here\" on a spot to collect a stamp."
+  },
+  "disclaimer": "Unofficial fan guide. Not affiliated with any artist, show or agency.",
+  "error": "Something went wrong. Please try again."
+}

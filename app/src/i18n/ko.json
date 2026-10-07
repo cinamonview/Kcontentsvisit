@@ -1,0 +1,48 @@
+{
+  "tabs": { "explore": "탐색", "map": "지도", "trail": "내 여정" },
+  "explore": {
+    "title": "최애의 성지를 찾아보세요",
+    "search": "아티스트, 작품 검색",
+    "all": "전체",
+    "spotCount_one": "성지 {{count}}곳",
+    "spotCount_other": "성지 {{count}}곳",
+    "empty": "검색 결과가 없어요."
+  },
+  "types": { "KPOP": "K-pop", "DRAMA": "드라마", "MOVIE": "영화", "VARIETY": "예능" },
+  "content": { "spots": "성지" },
+  "spot": {
+    "related": "성지인 이유",
+    "source": "출처",
+    "photoTip": "포토 팁",
+    "manners": "방문 매너",
+    "safety": "안전",
+    "access": "가는 방법",
+    "hours": "운영 시간",
+    "admission": "입장",
+    "timetable": "공식 시간표",
+    "checkBeforeVisit": "시간과 운영 정보는 바뀔 수 있어요. 방문 전에 확인하세요.",
+    "googleMaps": "구글 지도",
+    "naverMap": "네이버 지도",
+    "save": "저장",
+    "saved": "저장됨",
+    "markVisited": "도착했어요",
+    "visited": "방문함",
+    "coordUnverified": "지도 위치는 대략적인 값이고 아직 확인 전이에요.",
+    "notFound": "없는 성지예요."
+  },
+  "access": { "EASY": "쉬움", "MEDIUM": "보통", "HARD": "어려움" },
+  "spotType": { "URBAN": "도심", "EXCURSION": "원정" },
+  "map": {
+    "allContents": "전체",
+    "webFallback": "지도는 iOS·Android 앱에서 보여요. 대신 목록을 보여드릴게요."
+  },
+  "trail": {
+    "progress": "{{total}}곳 중 {{visited}}곳 방문",
+    "saved": "저장한 곳",
+    "visited": "방문한 곳",
+    "emptySaved": "가고 싶은 성지를 저장하면 여기에 모여요.",
+    "emptyVisited": "성지에서 \"도착했어요\"를 누르면 스탬프가 쌓여요."
+  },
+  "disclaimer": "비공식 팬 가이드이며 아티스트·작품·소속사와 관련이 없습니다.",
+  "error": "문제가 생겼어요. 다시 시도해 주세요."
+}
