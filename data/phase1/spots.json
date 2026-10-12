@@ -224,8 +224,8 @@
     "round_trip_minutes": null,
     "timetable_url": null,
     "safety_note": null,
-    "latitude": 37.5945,
-    "longitude": 126.9952,
+    "latitude": 37.6002,
+    "longitude": 126.9937,
     "last_verified_at": null,
     "coord_verified": false
   },
@@ -316,8 +316,8 @@
     "round_trip_minutes": null,
     "timetable_url": null,
     "safety_note": null,
-    "latitude": 37.5225,
-    "longitude": 127.026,
+    "latitude": 37.5187,
+    "longitude": 127.028,
     "last_verified_at": null,
     "coord_verified": false
   },
@@ -339,8 +339,8 @@
     "round_trip_minutes": null,
     "timetable_url": "https://www.letskorail.com/",
     "safety_note": "Unstaffed rural station. Never enter the tracks (Railroad Safety Act). Facilities are limited; bring water and check the last train.",
-    "latitude": 37.7036,
-    "longitude": 126.9378,
+    "latitude": 37.7006,
+    "longitude": 126.929,
     "last_verified_at": null,
     "coord_verified": false
   },
@@ -661,8 +661,8 @@
     "round_trip_minutes": null,
     "timetable_url": null,
     "safety_note": null,
-    "latitude": 37.594,
-    "longitude": 127.095,
+    "latitude": 37.5947,
+    "longitude": 127.1056,
     "last_verified_at": null,
     "coord_verified": false
   },
