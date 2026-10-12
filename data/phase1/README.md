@@ -7,7 +7,7 @@
 |---|---|---|
 | `contents.json` | CONTENT | 작품/아티스트 4개 (BTS, 이태원 클라쓰, 케이팝 데몬 헌터스, TWICE) |
 | `spots.json` | SPOT | 성지 30곳 |
-| `spot_contents.json` | SPOT_CONTENT | 성지와 작품의 연결 31개 (경복궁은 근거가 2개) |
+| `spot_contents.json` | SPOT_CONTENT | 성지와 작품의 연결 32개 (경복궁·월드컵대교는 근거가 2개) |
 | `content_media.json` | CONTENT_MEDIA | 비어 있음. 공식 채널 링크를 직접 확인하고 넣기 |
 | `reviews.json` | REVIEW | 비어 있음 |
 
