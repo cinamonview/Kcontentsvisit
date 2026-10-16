@@ -45,6 +45,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "bd2dfbc1-f492-4548-a12d-f64ea055d8c5"
+      }
+    },
+    "owner": "cinamonview"
   }
 }
