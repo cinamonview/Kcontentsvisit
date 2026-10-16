@@ -7,8 +7,8 @@
 |---|---|---|
 | `contents.json` | CONTENT | 작품/아티스트 4개 (BTS, 이태원 클라쓰, 케이팝 데몬 헌터스, TWICE) |
 | `spots.json` | SPOT | 성지 30곳 |
-| `spot_contents.json` | SPOT_CONTENT | 성지와 작품의 연결 31개 (경복궁은 근거가 2개) |
-| `content_media.json` | CONTENT_MEDIA | 비어 있음. 공식 채널 링크를 직접 확인하고 넣기 |
+| `spot_contents.json` | SPOT_CONTENT | 성지와 작품의 연결 32개 (경복궁·월드컵대교는 근거가 2개) |
+| `content_media.json` | CONTENT_MEDIA | 서울시 공식 영상 1개. 나머지는 공식 채널 링크를 직접 확인하고 넣기 |
 | `reviews.json` | REVIEW | 비어 있음 |
 
 앱은 이 파일들을 `api/` 한 곳에서 읽어 PRD의 API 응답 모양(`/api/contents/{id}/spots` 등)으로 합쳐 씁니다. 2단계에서는 그 한 곳만 서버 호출로 바꿉니다.

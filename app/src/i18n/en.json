@@ -34,6 +34,7 @@
   "spotType": { "URBAN": "City", "EXCURSION": "Day trip" },
   "map": {
     "allContents": "All",
+    "details": "View details",
     "webFallback": "The map works in the iOS and Android app. Here is the list instead."
   },
   "trail": {

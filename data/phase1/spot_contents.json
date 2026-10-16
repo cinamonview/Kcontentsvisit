@@ -85,7 +85,7 @@
     "content_id": 1,
     "media_id": null,
     "scene_start_sec": null,
-    "relation_note": "BTS performed 'Butter' on the bridge for NBC's The Tonight Show (2021).",
+    "relation_note": "BTS performed 'Butter' on the bridge for NBC's The Tonight Show (2021), filmed while the bridge was still under construction. It officially opened on 2021-09-01.",
     "source_url": "https://love.seoul.go.kr/articles/8366",
     "source_type": "OFFICIAL_TOURISM"
   },
@@ -213,8 +213,8 @@
     "id": 22,
     "spot_id": 21,
     "content_id": 3,
-    "media_id": null,
-    "scene_start_sec": null,
+    "media_id": 1,
+    "scene_start_sec": 5,
     "relation_note": "Appears as a background in the film (not a filming location): Rumi and Jinu open up to each other along the wall.",
     "source_url": "https://mediahub.seoul.go.kr/archives/2015298",
     "source_type": "OFFICIAL_TOURISM"
@@ -273,9 +273,9 @@
     "id": 28,
     "spot_id": 27,
     "content_id": 3,
-    "media_id": null,
-    "scene_start_sec": null,
-    "relation_note": "Appears as a background in the film (not a filming location): Chase and battle sequence.",
+    "media_id": 1,
+    "scene_start_sec": 5,
+    "relation_note": "Appears as a background in the film (not a filming location): the chase and battle happen beneath the bridge's double-deck structure.",
     "source_url": "https://mediahub.seoul.go.kr/archives/2015298",
     "source_type": "OFFICIAL_TOURISM"
   },
@@ -307,6 +307,16 @@
     "scene_start_sec": null,
     "relation_note": "'CHEER UP' music video location. Single source, needs checking.",
     "source_url": "https://world.nol.com/en/content/articles/6036d976-a7be-4ed6-8adc-8de0292403fb",
+    "source_type": "NEWS"
+  },
+  {
+    "id": 32,
+    "spot_id": 8,
+    "content_id": 1,
+    "media_id": null,
+    "scene_start_sec": null,
+    "relation_note": "Seoul City and the builder (Samsung C&T) supported the shoot; BTS's side asked the Seoul Film Commission on June 4, 2021.",
+    "source_url": "https://www.joongang.co.kr/article/24121752",
     "source_type": "NEWS"
   }
 ]
