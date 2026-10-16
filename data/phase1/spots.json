@@ -441,7 +441,7 @@
     "name_en": "Oriole",
     "name_ko": "오리올",
     "district": "Yongsan-gu",
-    "address": "Near Noksapyeong Stn, Yongsan-gu, Seoul",
+    "address": "43 Sinheung-ro 20-gil, Huam-dong, Yongsan-gu, Seoul",
     "subway": "Noksapyeong Stn (Line 6) Exit 3",
     "opening_hours": null,
     "admission": null,
@@ -454,10 +454,10 @@
     "round_trip_minutes": null,
     "timetable_url": null,
     "safety_note": null,
-    "latitude": 37.5355,
-    "longitude": 126.987,
+    "latitude": 37.5457,
+    "longitude": 126.9852,
     "last_verified_at": null,
-    "coord_verified": false
+    "coord_verified": true
   },
   {
     "id": 21,
