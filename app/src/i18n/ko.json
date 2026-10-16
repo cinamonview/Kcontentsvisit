@@ -34,6 +34,7 @@
   "spotType": { "URBAN": "도심", "EXCURSION": "원정" },
   "map": {
     "allContents": "전체",
+    "details": "자세히 보기",
     "webFallback": "지도는 iOS·Android 앱에서 보여요. 대신 목록을 보여드릴게요."
   },
   "trail": {
