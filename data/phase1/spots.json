@@ -362,8 +362,8 @@
     "round_trip_minutes": null,
     "timetable_url": null,
     "safety_note": null,
-    "latitude": 37.5145,
-    "longitude": 127.03,
+    "latitude": 37.5099,
+    "longitude": 127.0309,
     "last_verified_at": null,
     "coord_verified": false
   },
